@@ -1,0 +1,74 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "D:/Apps/laragon/www/spleeter-standalone/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "app.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "spleeter"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "collect_all",
+   "value": "spleeter"
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Apps/laragon/www/spleeter-standalone/pretrained_models;pretrained_models/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "outputDirectory": "D:/Apps/laragon/www/output",
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
